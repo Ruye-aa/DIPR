@@ -1,6 +1,6 @@
 # DIPR: Efficient Point Cloud Registration via Dynamic Iteration
 
-PyTorch implementation of the paper
+PyTorch implementation of the paper: [DIPR: Efficient Point Cloud Registration via Dynamic Iteration](https://arxiv.org/pdf/2312.02877)
 
 ## Introduction
 
